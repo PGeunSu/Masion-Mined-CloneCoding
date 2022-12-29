@@ -1,0 +1,11 @@
+.loading {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    height: 100%;
+    z-index: 9999;
+    background-image: url(../img/loding_img.gif);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    
+  }
